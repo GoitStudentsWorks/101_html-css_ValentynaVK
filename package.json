@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/In-code-we-trust/",
+    "build": "vite build --base=/101_html-css_ValentynaVK/",
     "preview": "vite preview"
   },
   "devDependencies": {
